@@ -17,7 +17,7 @@ At a minimum, please make use of the following two API's:
 (Dark Sky)[https://darksky.net/dev/docs]
 (Google Maps)[https://developers.google.com/maps/]
 
-In building this application, you are free to use and language, framework, and database that you're most comfortable with. 
+In building this application, you are free to use any language, framework, and database that you're most comfortable with. 
 Your implementation will be evaluated on the following criteria:
 
 1) User usability
